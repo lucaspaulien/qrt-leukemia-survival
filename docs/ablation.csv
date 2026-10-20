@@ -1,0 +1,91 @@
+check,variant,cindex
+validation,random stratified 5-fold,0.7435306507082828
+validation,random stratified 5-fold,0.7036721440661791
+validation,random stratified 5-fold,0.7125542134246644
+validation,random stratified 5-fold,0.7400386174075024
+validation,random stratified 5-fold,0.7268078270557168
+validation,random stratified 5-fold,0.7224190202179682
+validation,random stratified 5-fold,0.7117697708834972
+validation,random stratified 5-fold,0.7244737624761327
+validation,random stratified 5-fold,0.744508829428471
+validation,random stratified 5-fold,0.723621320373432
+validation,random stratified 5-fold,0.7274013950244049
+validation,random stratified 5-fold,0.7305785778800488
+validation,random stratified 5-fold,0.7057062314560021
+validation,random stratified 5-fold,0.7170372756180018
+validation,random stratified 5-fold,0.7351645790329014
+validation,leave-centers-out 5-fold,0.7098337600106575
+validation,leave-centers-out 5-fold,0.7133045037108664
+validation,leave-centers-out 5-fold,0.7094096838228515
+validation,leave-centers-out 5-fold,0.7916116034795431
+validation,leave-centers-out 5-fold,0.6953627147389454
+validation,leave-centers-out 5-fold,0.7098337600106575
+validation,leave-centers-out 5-fold,0.6877502526155367
+validation,leave-centers-out 5-fold,0.7540518769603216
+validation,leave-centers-out 5-fold,0.7577294659192557
+validation,leave-centers-out 5-fold,0.7112059243499051
+validation,leave-centers-out 5-fold,0.7098337600106575
+validation,leave-centers-out 5-fold,0.700125048829607
+validation,leave-centers-out 5-fold,0.6914011591311783
+validation,leave-centers-out 5-fold,0.7379890778617297
+validation,leave-centers-out 5-fold,0.7512518734773782
+features,base,0.7098337600106575
+features,base,0.7133045037108664
+features,base,0.7094096838228515
+features,base,0.7916116034795431
+features,base,0.6953627147389454
+features,base,0.7098337600106575
+features,base,0.6877502526155367
+features,base,0.7540518769603216
+features,base,0.7577294659192557
+features,base,0.7112059243499051
+features,base,0.7098337600106575
+features,base,0.700125048829607
+features,base,0.6914011591311783
+features,base,0.7379890778617297
+features,base,0.7512518734773782
+features,base + extra,0.7095690142767634
+features,base + extra,0.7094774159139227
+features,base + extra,0.7112434373601094
+features,base + extra,0.7888304163346271
+features,base + extra,0.6935689792805916
+features,base + extra,0.7095690142767634
+features,base + extra,0.682450171254586
+features,base + extra,0.7504335196964189
+features,base + extra,0.7587507158608993
+features,base + extra,0.7102696215882659
+features,base + extra,0.7095690142767634
+features,base + extra,0.6977401006594379
+features,base + extra,0.6899023697951221
+features,base + extra,0.7377295550241801
+features,base + extra,0.7498026739361101
+features,base + center ranks,0.7110550727150183
+features,base + center ranks,0.7066935960013281
+features,base + center ranks,0.7074986882276404
+features,base + center ranks,0.7884969972680517
+features,base + center ranks,0.6895653315402575
+features,base + center ranks,0.7110550727150183
+features,base + center ranks,0.6817421710237879
+features,base + center ranks,0.7533634396155816
+features,base + center ranks,0.7549901654461358
+features,base + center ranks,0.7034792922069796
+features,base + center ranks,0.7110550727150183
+features,base + center ranks,0.6980882845594161
+features,base + center ranks,0.6920855396047807
+features,base + center ranks,0.7384275955792314
+features,base + center ranks,0.7416140970792812
+features,base + extra + center ranks,0.710387524101468
+features,base + extra + center ranks,0.7068815191738147
+features,base + extra + center ranks,0.7082835913116442
+features,base + extra + center ranks,0.7881847232968962
+features,base + extra + center ranks,0.6894386618697346
+features,base + extra + center ranks,0.710387524101468
+features,base + extra + center ranks,0.6798207285694728
+features,base + extra + center ranks,0.7517517969997338
+features,base + extra + center ranks,0.7562510120252939
+features,base + extra + center ranks,0.7055268880163074
+features,base + extra + center ranks,0.710387524101468
+features,base + extra + center ranks,0.6975967603884328
+features,base + extra + center ranks,0.691882877487342
+features,base + extra + center ranks,0.7382440022260224
+features,base + extra + center ranks,0.740835029834158
